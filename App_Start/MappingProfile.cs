@@ -5,6 +5,7 @@ using System.Linq;
 using System.Web;
 using ToDoAPI.Models;
 using ToDoAPI.Dtos;
+using MongoTodo = ToDoAPI.Models.MongoDB.Todo;
 
 namespace ToDoAPI.App_Start
 {
@@ -14,6 +15,8 @@ namespace ToDoAPI.App_Start
         {
             Mapper.CreateMap<Todo, TodoDto>();
             Mapper.CreateMap<TodoDto, Todo>();
+            Mapper.CreateMap<MongoTodo, MongoTodoDto>();
+            Mapper.CreateMap<MongoTodoDto, MongoTodo >();
         }
     }
 }

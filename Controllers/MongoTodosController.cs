@@ -8,6 +8,9 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using ToDoAPI.Models.MongoDB;
+using AutoMapper;
+
+using ToDoAPI.Dtos;
 
 namespace ToDoAPI.Controllers
 {
@@ -21,35 +24,42 @@ namespace ToDoAPI.Controllers
         public IHttpActionResult Todos()
         {
             var collection = mongoDb.GetCollection<Todo>("Todos");
-            var todos = collection.Find(new BsonDocument()).ToList();
+            var todos = collection.Find(new BsonDocument()).ToList().Select(Mapper.Map<Todo, MongoTodoDto>);
             return Ok(todos);
         }
 
         [HttpGet]
         public IHttpActionResult Todo(string id)
         {
-            var collection = mongoDb.GetCollection<Todo>("Todos");
-            //  collection.Find(Builders<Employee>.Filter.Where(s => s.Id == id)).FirstOrDefault()
-            var todo = collection.Find(Builders<Todo>.Filter.Where(x => x.Id == id)).FirstOrDefault();
-
-
-            return Ok(todo);
+            try
+            {
+                var collection = mongoDb.GetCollection<Todo>("Todos");
+                //  collection.Find(Builders<Employee>.Filter.Where(s => s.Id == id)).FirstOrDefault()
+                var todo = Mapper.Map<Todo, MongoTodoDto>(collection.Find(Builders<Todo>.Filter.Where(x => x.Id == id)).FirstOrDefault());
+                return Ok(todo);
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
         }
 
         [HttpPost]
-        public IHttpActionResult Todo([FromBody] Todo todo)
+        public IHttpActionResult Todo([FromBody] MongoTodoDto todo)
         {
             var collection = mongoDb.GetCollection<Todo>("Todos");
-            collection.InsertOneAsync(todo);
+            var MongoTodo = Mapper.Map<MongoTodoDto, Todo>(todo);
+            collection.InsertOneAsync(MongoTodo);
+            todo.Id = MongoTodo.Id;
             return Created(new Uri(Request.RequestUri + "/" + todo.Id), todo);
         }
 
         [HttpPut]
-        public IHttpActionResult TodoUpdate([FromUri] string id, [FromBody] Todo todo)
+        public IHttpActionResult TodoUpdate([FromUri] string id, [FromBody] MongoTodoDto todo)
         {
             var collecion = mongoDb.GetCollection<Todo>("Todos");
-            var result = collecion.FindOneAndUpdateAsync(Builders<Todo>.Filter.Where(x=>x.Id==id), Builders<Todo>.Update.Set("TodoData", todo.TodoData).Set("IsCompleted", todo.IsCompleted)).Result;
-           // var res = collecion.FindOneAndReplace(Builders<Todo>.Filter.Eq("id",))
+            var result = collecion.FindOneAndUpdateAsync(Builders<Todo>.Filter.Where(x => x.Id == id), Builders<Todo>.Update.Set("TodoData", todo.TodoData).Set("IsCompleted", todo.IsCompleted)).Result;
+            // var res = collecion.FindOneAndReplace(Builders<Todo>.Filter.Eq("id",))
             return Ok(result);
         }
 

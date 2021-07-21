@@ -193,6 +193,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\MongoTodosController.cs" />
     <Compile Include="Controllers\TodosController.cs" />
+    <Compile Include="Dtos\MongoTodoDto.cs" />
     <Compile Include="Dtos\TodoDto.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

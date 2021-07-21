@@ -36,6 +36,8 @@ namespace ToDoAPI.Controllers
                 var collection = mongoDb.GetCollection<Todo>("Todos");
                 //  collection.Find(Builders<Employee>.Filter.Where(s => s.Id == id)).FirstOrDefault()
                 var todo = Mapper.Map<Todo, MongoTodoDto>(collection.Find(Builders<Todo>.Filter.Where(x => x.Id == id)).FirstOrDefault());
+                if (todo == null)
+                    return BadRequest("Please enter valid id");
                 return Ok(todo);
             }
             catch (Exception e)

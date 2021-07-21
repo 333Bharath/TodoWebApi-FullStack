@@ -1,0 +1,220 @@
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\obj\Debug\ToDoAPI.csprojAssemblyReference.cache
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\obj\Debug\ToDoAPI.csproj.CoreCompileInputs.cache
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\ToDoAPI.dll.config
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\ToDoAPI.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\ToDoAPI.pdb
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\csc.exe
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\csc.exe.config
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\csc.rsp
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\csi.exe
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\csi.exe.config
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\csi.rsp
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.AppContext.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Console.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.IO.Compression.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Net.Http.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Net.Sockets.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.ValueTuple.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Xml.XPath.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\vbc.exe
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\vbc.exe.config
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\vbc.rsp
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\VBCSCompiler.exe
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\EntityFramework.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\EntityFramework.SqlServer.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Newtonsoft.Json.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Net.Http.Formatting.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Web.Http.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Web.Http.WebHost.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\EntityFramework.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\EntityFramework.SqlServer.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Newtonsoft.Json.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Net.Http.Formatting.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Web.Http.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Web.Http.WebHost.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\obj\Debug\ToDoAPI.csproj.CopyComplete
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\obj\Debug\ToDoAPI.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\obj\Debug\ToDoAPI.pdb
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\obj\Debug\ToDoAPI.Migrations.creatingdb.resources
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\obj\Debug\ToDoAPI.csproj.GenerateResource.cache
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Web.Cors.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Web.Http.Cors.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Web.Http.Cors.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\AutoMapper.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\AutoMapper.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\obj\Debug\ToDoAPI.Migrations.isCompleted.resources
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Microsoft.Owin.Cors.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Microsoft.Owin.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Microsoft.Owin.Security.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Owin.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Web.Http.Owin.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Microsoft.Owin.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Microsoft.Owin.Cors.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Microsoft.Owin.Security.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Web.Http.Owin.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\snappy32.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\snappy64.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\libzstd.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\mongocrypt.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\DnsClient.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\MongoDB.Bson.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\MongoDB.Driver.Core.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\MongoDB.Driver.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\MongoDB.Libmongocrypt.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\SharpCompress.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Buffers.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.ValueTuple.dll
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\DnsClient.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\MongoDB.Bson.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\MongoDB.Driver.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\MongoDB.Driver.Core.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Buffers.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\DXC\Own\OwnProjects\OtherProjects\Dotnet-React\ToDoAPI\bin\System.ValueTuple.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\snappy32.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\snappy64.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\libzstd.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\mongocrypt.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\ToDoAPI.dll.config
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\ToDoAPI.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\ToDoAPI.pdb
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\csc.exe
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\csc.exe.config
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\csc.rsp
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\csi.exe
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\csi.exe.config
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\csi.rsp
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.AppContext.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Console.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.IO.Compression.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Net.Http.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Net.Sockets.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.ValueTuple.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Xml.XPath.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\vbc.exe
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\vbc.exe.config
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\vbc.rsp
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\VBCSCompiler.exe
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\AutoMapper.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\DnsClient.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\EntityFramework.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\EntityFramework.SqlServer.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Microsoft.Owin.Cors.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Microsoft.Owin.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Microsoft.Owin.Security.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\MongoDB.Bson.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\MongoDB.Driver.Core.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\MongoDB.Driver.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\MongoDB.Libmongocrypt.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Newtonsoft.Json.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Owin.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\SharpCompress.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Buffers.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Net.Http.Formatting.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.ValueTuple.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Web.Cors.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Web.Http.Cors.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Web.Http.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Web.Http.Owin.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Web.Http.WebHost.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\AutoMapper.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\DnsClient.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\EntityFramework.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\EntityFramework.SqlServer.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Microsoft.Owin.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Microsoft.Owin.Cors.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Microsoft.Owin.Security.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\MongoDB.Bson.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\MongoDB.Driver.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\MongoDB.Driver.Core.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Buffers.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.ValueTuple.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Web.Http.Cors.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Web.Http.Owin.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Newtonsoft.Json.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Net.Http.Formatting.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Web.Http.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\System.Web.Http.WebHost.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\obj\Debug\ToDoAPI.csprojAssemblyReference.cache
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\obj\Debug\ToDoAPI.Migrations.creatingdb.resources
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\obj\Debug\ToDoAPI.Migrations.isCompleted.resources
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\obj\Debug\ToDoAPI.csproj.GenerateResource.cache
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\obj\Debug\ToDoAPI.csproj.CoreCompileInputs.cache
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\obj\Debug\ToDoAPI.csproj.CopyComplete
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\obj\Debug\ToDoAPI.dll
+C:\Users\b41\OneDrive - DXC Production\Desktop\ToDoAPI-df0a6d29db407f329bc4fa46fe4934307e0a4c2c\obj\Debug\ToDoAPI.pdb

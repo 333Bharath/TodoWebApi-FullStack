@@ -47,6 +47,9 @@ namespace ToDoAPI
 
             config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new System.Net.Http.Headers.MediaTypeHeaderValue("text/html"));
 
+            config.Filters.Add(new RequireHttpsAttribute());
+
+
            // config.Formatters.Add(new CustomJsonFormater());
 
             // Web API routes
